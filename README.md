@@ -1,0 +1,1 @@
+Desenvolvimento de um FrontEnd para a apresentação de um produto voltado ao programador usando BootStrap. Projeto do Módulo 2 do curso de Desenvolvedor Full-Stack da parceria do Resilia com o Senac e a Prefeitura do Rio de Janeiro no projeto Programadores Cariocas.

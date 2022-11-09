@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+body{
+    background: rgb(83,105,168);
+    background: radial-gradient(circle, rgba(83,105,168,1) 0%, rgba(44,44,66,1) 35%, rgba(2,0,36,1) 100%);
+  }
+  
+  /*cookies by (url: https://programadoresdepre.com.br/como-criar-notificacao-de-cookies-com-html-css-e-javascript/)*/
+  .CookieMessage {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #121212;
+      z-index: 999;
+      display: none;
+    }
+    
+    .CookieMessage-content {
+      color: white;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px 20px 0 20px;
+      font-family: sans-serif;
+      line-height: 1.5;
+      font-size: 12px;
+  
+    }
+  
+    .CookieMessage-content a{
+      color: white;
+    }
+  
+    .CookieMessage-content p{
+      margin: 0 0 20px 0;
+    }
+    
+    .CookieMessage-button {
+      background: #00C2FF;
+      display: inline-block;
+      text-decoration: none;
+      padding: 5px 20px;
+      border-radius: 5px;
+      text-transform: uppercase;
+    
+    }
+  
+    .CookieMessage-button:hover{
+      background: #5cd9ff;
+    }
+
+.container-fluid{
+    margin-top: 0;
+    height: 50px;
+}
+.sobre{
+    position: relative;
+    height: 800px;
+    display: flex;
+    
+
+}
+
+.extras{
+    height: 100px;
+    width: 100px;
+    margin-right: 200px;
+    margin-top: 120px;
+    margin-left: -60px;
+    
+}
+.texto-sobre{
+    margin: 20px 0;
+    margin-right: 30px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    max-width: 800px;
+    margin-top: 200px;
+    margin-left: 30px;
+}
+.modal fade{
+    color: black;
+}
+.cadastro-img{
+    height: -5px;
+    width: -5px;
+}
